@@ -35,4 +35,10 @@ The app analyzes purchase behavior, discount usage, and seasonal buying trends t
 =======
 # thread-trend-dashboard
 Interactive customer retention dashboard for a fashion boutique. Built with Streamlit and Python to analyze purchase behavior, offer redemption, and seasonal trends, helping identify key loyalty drivers and visualize revenue, ROI, and customer insights.
+# 🧵 Thread & Trend Dashboard
+
+📊 **Live Streamlit App:** [Click to View]([https://thread-trend-dashboard.streamlit.app](https://thread-trend-dashboard-y8qfdmummkv387spspeqtv.streamlit.app/))
+
+An interactive marketing performance dashboard built with Streamlit, Plotly, and Pandas.
+
 >>>>>>> 5da1d095fb5559b4679b94f64d9301175d5d39bf
