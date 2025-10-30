@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧵 Thread & Trend | Customer Retention Dashboard
 
 An interactive **customer retention analytics dashboard** for an online fashion boutique — built with **Python, Streamlit, and Plotly**.  
@@ -31,3 +32,7 @@ The app analyzes purchase behavior, discount usage, and seasonal buying trends t
    ```bash
    git clone https://github.com/YOUR_USERNAME/thread-trend-dashboard.git
    cd thread-trend-dashboard
+=======
+# thread-trend-dashboard
+Interactive customer retention dashboard for a fashion boutique. Built with Streamlit and Python to analyze purchase behavior, offer redemption, and seasonal trends, helping identify key loyalty drivers and visualize revenue, ROI, and customer insights.
+>>>>>>> 5da1d095fb5559b4679b94f64d9301175d5d39bf
